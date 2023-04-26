@@ -1,0 +1,1 @@
+stopsign is 1,car is 1,person is 12,
